@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.application.Library.entity.Author;
 import com.application.Library.service.AuthorService;
 
+//@RestController
 @Controller
 public class AuthorController {
 
